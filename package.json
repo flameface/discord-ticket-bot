@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "common-tags": "^1.8.2",
+    "discord.js": "^14.7.1"
+  },
+  "name": "ticket-bot-discord.js",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs",
+  "keywords": [
+    "discord.js",
+    "ticket-bot",
+    "flamequard",
+    "ticketbot",
+    "ticket",
+    "discord",
+    "discord-bot",
+    "youtube-tutorial",
+    "open-source"
+  ],
+  "author": "FlameQuard",
+  "license": "MIT",
+  "description": "An awesome discord ticket bot and its per server bot without database usage"
+}
